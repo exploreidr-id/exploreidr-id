@@ -50,6 +50,26 @@ ADUBA's application token standard, designed to support tokens and applications 
 
 ---
 
+## 🌐 Planned Ecosystem Applications
+
+ADUBA aims to develop an integrated blockchain ecosystem.
+
+Planned ecosystem components include:
+
+- ADUBA Block Explorer
+- ADUBA Bridge
+- ADUBA Swap
+- ADUBA DEX
+- ADUBA Launchpad
+- ADUBA Wallet
+
+These components are part of the long-term ecosystem roadmap and will be developed progressively.
+
+**Official Website:** Coming Soon  
+**Planned Domain:** aduba.io
+
+---
+
 ## 🛠️ Current Development
 
 Current development priorities include:
@@ -59,7 +79,7 @@ Current development priorities include:
 - EVM compatibility
 - IBC interoperability
 - Developer infrastructure
-- Future bridge and wallet development
+- Ecosystem planning and development
 
 Features and integrations are being developed and validated progressively.
 
@@ -67,9 +87,23 @@ Features and integrations are being developed and validated progressively.
 
 ## 🤝 Building the Team
 
-ADUBA is exploring collaboration with experienced people in blockchain engineering, business development, ecosystem partnerships, and Web3 infrastructure.
+ADUBA is exploring collaboration with experienced people in:
+
+- Blockchain engineering
+- Business development
+- Strategic partnerships
+- Ecosystem development
+- Web3 infrastructure
 
 We welcome meaningful discussions with developers, builders, and potential strategic partners.
+
+---
+
+## 📩 Contact
+
+For business inquiries, partnerships, and collaboration:
+
+**Email:** founder@aduba.my.id
 
 ---
 
