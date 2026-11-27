@@ -70,7 +70,7 @@ Key Utilities:
 •Network governance.
 •Support for the ADUBA ecosystem.
 
-Parameter                              Details
+Parameter                              Details:
 Token Name                             ADUBA
 Token Symbol                           ADU
 Token Type                             Native Layer-1 Token
