@@ -66,7 +66,7 @@ Planned ecosystem components include:
 These components are part of the long-term ecosystem roadmap and will be developed progressively.
 
 **Official Website:** Coming Soon  
-**Planned Domain:** aduba.io
+**Planned Domain:** aduba.id
 
 ---
 
