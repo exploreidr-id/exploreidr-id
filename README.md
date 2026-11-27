@@ -71,7 +71,7 @@ Key Utilities:
 •Support for the ADUBA ecosystem.
 
 Parameter                              Details
-Token Name.                            ADUBA
+Token Name                             ADUBA
 Token Symbol                           ADU
 Token Type                             Native Layer-1 Token
 Blockchain                             ADUBA Chain
@@ -79,6 +79,7 @@ EVM Denomination                       aadu
 Display Denomination                   ADU
 Decimals                               18
 Maximum Supply Target                  750,000,000 ADU
+
 
 **2. ADF-20**
 
