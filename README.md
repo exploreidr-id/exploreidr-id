@@ -51,6 +51,7 @@ The ADUBA Chain architecture is built around:
 </div>
 The native token of the ADUBA network, designed for network gas fees and ecosystem utility.
 
+
 **ADF-20**
 
 ADUBA's application token standard, designed to support tokens and applications within the ecosystem.
