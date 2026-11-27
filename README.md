@@ -1,5 +1,14 @@
 # Hi, I'm RAY 👋
 
+
+<div align="center">
+
+  <img src="image_283c6d37.jpg"
+       width="180"
+       alt="ADUBA Chain Repository Logo">
+
+</div>
+
 ### Founder & Project Lead at ADUBA Chain
 
 I'm building ADUBA Chain, an independent Layer-1 blockchain focused on interoperability, EVM compatibility, and a developer-oriented Web3 ecosystem.
