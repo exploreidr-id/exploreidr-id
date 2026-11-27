@@ -86,8 +86,6 @@ ADUBA's application token standard, designed to support tokens and applications 
 
 ADF-20 provides a framework for creating, issuing, and managing application-level tokens within the ADUBA ecosystem.
 
-Similar in concept to BEP-20 on BNB Smart Chain, ADF-20 provides a framework for creating, issuing, and managing application-level tokens within the ADUBA ecosystem.
-
 Key Features:
 
 •Standardized token implementation.
