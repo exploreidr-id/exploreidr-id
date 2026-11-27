@@ -49,7 +49,8 @@ The ADUBA Chain architecture is built around:
 
 ## 🪙 ADUBA Ecosystem
 
-**1. ADU**
+### ADU — Native Token
+
 
 <div align="center">
 
@@ -59,48 +60,45 @@ The ADUBA Chain architecture is built around:
 
 </div>
 
+ADU is the native token of ADUBA Chain and serves as the primary digital asset of the network.
 
-ADU is the native token of ADUBA Chain, serving as the primary digital asset of the network.
-The native token of the ADUBA network, designed for network gas fees and ecosystem utility.
+Its primary utilities include:
 
-Key Utilities:
+- Network gas fee payments.
+- Ecosystem utility.
+- Network governance.
+- Supporting the growth and sustainability of the ADUBA ecosystem.
 
-•Network gas fee payments.
-•Ecosystem utility.
-•Network governance.
-•Support for the ADUBA ecosystem.
+| Parameter | Details |
+|---|---|
+| Token Name | ADU |
+| Token Symbol | ADU |
+| Token Type | Native Layer-1 Token |
+| Blockchain | ADUBA Chain |
+| EVM Denomination | aadu |
+| Display Denomination | ADU |
+| Decimals | 18 |
+| Maximum Supply Target | 750,000,000 ADU |
 
-Parameter                              Details:
-Token Name                             ADUBA
-Token Symbol                           ADU
-Token Type                             Native Layer-1 Token
-Blockchain                             ADUBA Chain
-EVM Denomination                       aadu
-Display Denomination                   ADU
-Decimals                               18
-Maximum Supply Target                  750,000,000 ADU
+### ADF-20 — Application Token Standard
 
+ADF-20 is the application token standard developed for the ADUBA Chain ecosystem.
 
-**2. ADF-20**
+Similar in concept to BEP-20 on BNB Smart Chain, ADF-20 provides a standardized framework for creating, issuing, and managing application-level tokens within the ADUBA ecosystem.
 
-ADUBA's application token standard, designed to support tokens and applications within the ecosystem.
+Key capabilities include:
 
-ADF-20 provides a framework for creating, issuing, and managing application-level tokens within the ADUBA ecosystem.
+- Standardized token implementation.
+- Creation and management of ecosystem tokens.
+- Smart contract integration.
+- Support for decentralized applications (dApps).
+- Integration with the broader ADUBA ecosystem.
 
-Key Features:
-
-•Standardized token implementation.
-•Creation and management of ecosystem tokens.
-•Smart contract integration.
-•Support for decentralized applications (dApps).
-•Designed for interoperability within the ADUBA ecosystem.
-
-Important Distinction:
+**Important Distinction:**
 
 ADU is the native token of ADUBA Chain, while ADF-20 is a token standard that enables applications to issue and manage their own tokens.
 
 ADF-20 is not a standalone cryptocurrency or native token.
-
 ---
 
 ## 🌐 Planned Ecosystem Applications
@@ -138,6 +136,24 @@ Features and integrations are being developed and validated progressively.
 
 ---
 
+## 🌐 Network Development Status
+
+ADUBA Chain is progressing through its Layer-1 development and network validation phases.
+
+Current development status:
+
+- Layer-1 Core: Under Development
+- Testnet: Active Testing and Validation
+- EVM Compatibility: Under Development and Validation
+- IBC Interoperability: Development and Integration
+- Mainnet: Planned
+
+ADUBA follows a progressive development approach, prioritizing network stability, security, and interoperability before mainnet deployment.
+
+Network capabilities and development milestones will be updated as validation progresses.
+
+---
+
 ## 🛡️ Engineering Philosophy & Core Principles
 
 Our development philosophy is built around three fundamental principles:
@@ -155,6 +171,25 @@ Our mission is to build a blockchain ecosystem where stability, flexibility, and
 
 **Built for Stability. Designed for Flexibility. Engineered for Security.**
 
+---
+
+## 🔐 ADUBA Security-First Engineering Policy
+
+Security is a fundamental engineering responsibility across the entire ADUBA ecosystem.
+
+Our security-first approach covers:
+
+- Consensus and network infrastructure.
+- Validators and key management.
+- EVM and smart contracts.
+- ADF-20 token implementations.
+- Cross-chain bridges and interoperability.
+- Wallet infrastructure and asset management.
+- Network operations and governance.
+
+Critical components handling real-value assets should undergo appropriate testing, security assessments, and independent reviews before production deployment.
+
+Our objective is to establish a secure, resilient, and trustworthy blockchain ecosystem through continuous security improvements.
 ---
 
 ## 🤝 Building the Team
