@@ -46,7 +46,7 @@ The ADUBA Chain architecture is built around:
 
   <img src="image_d99d28b6.jpg"
        width="180"
-       alt="ADUBA Chain Repository Logo"
+       alt="ADUBA Chain Repository Logo">
 
   <p>
     <strong>
