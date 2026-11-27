@@ -47,9 +47,7 @@ The ADUBA Chain architecture is built around:
   <img src="image_d99d28b6.jpg"
        width="180"
        alt="ADUBA Chain Repository Logo">
-
-</div>
-
+       
 The native token of the ADUBA network, designed for network gas fees and ecosystem utility.
 
 **ADF-20**
