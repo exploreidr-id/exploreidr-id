@@ -71,7 +71,7 @@ Its primary utilities include:
 
 | Parameter | Details |
 |---|---|
-| Token Name | ADU |
+| Token Name | ADUBA |
 | Token Symbol | ADU |
 | Token Type | Native Layer-1 Token |
 | Blockchain | ADUBA Chain |
