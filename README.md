@@ -49,7 +49,7 @@ The ADUBA Chain architecture is built around:
 
 ## 🪙 ADUBA Ecosystem
 
-**1.ADU**
+**1. ADU**
 
 <div align="center">
 
@@ -80,7 +80,7 @@ Display Denomination                   ADU
 Decimals                               18
 Maximum Supply Target                  750,000,000 ADU
 
-**2.ADF-20**
+**2. ADF-20**
 
 ADUBA's application token standard, designed to support tokens and applications within the ecosystem.
 
