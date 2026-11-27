@@ -59,11 +59,48 @@ The ADUBA Chain architecture is built around:
 
 </div>
 
+
+ADU is the native token of ADUBA Chain, serving as the primary digital asset of the network.
 The native token of the ADUBA network, designed for network gas fees and ecosystem utility.
+
+Key Utilities:
+
+•Network gas fee payments.
+•Ecosystem utility.
+•Network governance.
+•Support for the ADUBA ecosystem.
+
+Parameter                              Details
+Token Name.                            ADUBA
+Token Symbol                           ADU
+Token Type                             Native Layer-1 Token
+Blockchain                             ADUBA Chain
+EVM Denomination                       aadu
+Display Denomination                   ADU
+Decimals                               18
+Maximum Supply Target                  750,000,000 ADU
 
 **ADF-20**
 
 ADUBA's application token standard, designed to support tokens and applications within the ecosystem.
+
+ADF-20 provides a framework for creating, issuing, and managing application-level tokens within the ADUBA ecosystem.
+
+Similar in concept to BEP-20 on BNB Smart Chain, ADF-20 provides a framework for creating, issuing, and managing application-level tokens within the ADUBA ecosystem.
+
+Key Features:
+
+•Standardized token implementation.
+•Creation and management of ecosystem tokens.
+•Smart contract integration.
+•Support for decentralized applications (dApps).
+•Designed for interoperability within the ADUBA ecosystem.
+
+Important Distinction:
+
+ADU is the native token of ADUBA Chain, while ADF-20 is a token standard that enables applications to issue and manage their own tokens.
+
+ADF-20 is not a standalone cryptocurrency or native token.
 
 ---
 
