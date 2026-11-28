@@ -80,11 +80,23 @@ Its primary utilities include:
 | Decimals | 18 |
 | Maximum Supply Target | 750,000,000 ADU |
 
-### ADF-20 — Application Token Standard
+### ADF-20 — Unified Fungible Asset Standard
 
-ADF-20 is the application token standard developed for the ADUBA Chain ecosystem.
+ADF-20 is proposed as ADUBA's Unified Fungible Asset Standard, designed to connect EVM-compatible token interfaces with the native asset infrastructure of the Cosmos SDK.
 
-ADF-20 provides a standardized framework for creating, issuing, and managing application-level tokens within the ADUBA ecosystem.
+Its architectural objectives include:
+
+- **EVM Compatibility:** Supporting familiar ERC-20 interfaces for Solidity developers and EVM-compatible applications.
+- **Cosmos SDK Integration:** Connecting token balances and asset operations with the Cosmos SDK `x/bank` module.
+- **Unified Asset Architecture:** Establishing consistent asset representation across EVM and Cosmos environments.
+- **IBC Interoperability:** Designing support for cross-chain asset transfers through IBC/ICS-20, subject to implementation and compatibility requirements.
+- **Developer Accessibility:** Supporting familiar development tools and interfaces across the EVM ecosystem.
+
+ADF-20 is intended to complement ADF-1, not replace it.
+
+ADF-1 focuses on **token creation**, while ADF-20 focuses on **fungible asset representation, management, and interoperability**.
+
+*Both standards are under development and subject to technical implementation, testing, and validation.*
 
 Key capabilities include:
 
