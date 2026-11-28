@@ -135,9 +135,11 @@ Key capabilities include:
 
 **Important Distinction:**
 
-ADU is the native token of ADUBA Chain, while ADF-20 is a token standard that enables applications to issue and manage their own tokens.
-
-ADF-20 is not a standalone cryptocurrency or native token.
+- **ADU:** Native token and gas fee token of ADUBA Chain.
+- **ADF-1:** Token creation, issuance, and management standard.
+- **ADF-20:** Unified fungible asset standard designed for EVM and Cosmos SDK integration and IBC interoperability.
+- 
+**ADF-1 and ADF-20 are not standalone cryptocurrencies or native tokens.**
 ---
 
 ## 🌐 Planned Ecosystem Applications
