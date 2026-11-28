@@ -254,12 +254,11 @@ For business inquiries, partnerships, and collaboration:
 **Email:** founder@aduba.my.id
 
 ---
+# 🔗 Links
 
-## 🔗 Links
-
-- GitHub: https://github.com/exploreidr-id
-- ADUBA-NODE: https://github.com/exploreidr-id/ADUBA-NODE
-
+- GitHub: https://github.com
+- ADUBA-NODE: https://github.com/ADUBA-NODE *(Current testnet prototype; Cosmos SDK core migration in progress)*
+  
 ---
 
 **Building ADUBA Chain — An interoperable Layer-1 ecosystem.**
