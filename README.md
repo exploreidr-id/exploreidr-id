@@ -80,7 +80,7 @@ Its primary utilities include:
 | Decimals | 18 |
 | Maximum Supply Target | 750,000,000 ADU |
 
-### ADF-20 — Unified Fungible Asset Standard
+### ADF-20 — ADUBA Digital Fungible Token Standard
 
 ADF-20 is proposed as ADUBA's Unified Fungible Asset Standard, designed to connect EVM-compatible token interfaces with the native asset infrastructure of the Cosmos SDK.
 
