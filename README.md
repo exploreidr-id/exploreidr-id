@@ -80,23 +80,50 @@ Its primary utilities include:
 | Decimals | 18 |
 | Maximum Supply Target | 750,000,000 ADU |
 
+## ADF-1 & ADF-20 — ADUBA Token Standards
+
+ADUBA is developing two complementary token standards designed to support token creation, asset management, and cross-chain interoperability within the ADUBA ecosystem.
+
+### ADF-1 — ADUBA Token Creator Standard
+
+ADF-1 focuses on the creation, issuance, and management of tokens within the ADUBA ecosystem.
+
+**Core Functions:**
+- **Token Creation:** Provides a standardized framework for creating tokens.
+- **Token Issuance:** Defines mechanisms for issuing and distributing tokens.
+- **Token Management:** Establishes standardized token management functionality and requirements.
+
 ### ADF-20 — ADUBA Digital Fungible Token Standard
 
-ADF-20 is proposed as ADUBA's Unified Fungible Asset Standard, designed to connect EVM-compatible token interfaces with the native asset infrastructure of the Cosmos SDK.
+ADF-20 is designed as a unified fungible asset standard that connects EVM-compatible token interfaces with the native asset infrastructure of the Cosmos SDK.
 
-Its architectural objectives include:
+**Core Development Objectives:**
+- **EVM & Cosmos SDK Integration:** Connects EVM-compatible token interfaces with the Cosmos SDK `x/bank` module.
+- **Balance Synchronization:** Aims to maintain consistent token balances across EVM and Cosmos environments.
+- **Transfer & Allowance:** Supports ERC-20-compatible transfer, approval, and allowance functionality.
+- **IBC/ICS-20 Integration:** Designed to enable interoperable fungible asset transfers across IBC-connected blockchain networks.
+- **Wallet Compatibility:** Aims to support compatibility with EVM and Cosmos wallets, subject to implementation and testing.
 
-- **EVM Compatibility:** Supporting familiar ERC-20 interfaces for Solidity developers and EVM-compatible applications.
-- **Cosmos SDK Integration:** Connecting token balances and asset operations with the Cosmos SDK `x/bank` module.
-- **Unified Asset Architecture:** Establishing consistent asset representation across EVM and Cosmos environments.
-- **IBC Interoperability:** Designing support for cross-chain asset transfers through IBC/ICS-20, subject to implementation and compatibility requirements.
-- **Developer Accessibility:** Supporting familiar development tools and interfaces across the EVM ecosystem.
+### Key Differences
 
-ADF-20 is intended to complement ADF-1, not replace it.
+| Feature | ADF-1 | ADF-20 |
+|---|---|---|
+| Primary Purpose | Token Creation | Unified Fungible Asset Management |
+| Token Creation | Yes | Not its primary function |
+| Token Issuance | Yes | Supports asset representation and management |
+| Token Management | Yes | Yes, through its unified asset architecture |
+| EVM Integration | Depends on implementation | Core development objective |
+| Cosmos SDK `x/bank` Integration | Depends on implementation | Core development objective |
+| Balance Synchronization | Not its primary function | Core development objective |
+| ERC-20 Compatibility | Not its primary function | Development objective |
+| IBC/ICS-20 Interoperability | Not its primary function | Development objective |
+| Wallet Compatibility | Depends on implementation | EVM and Cosmos wallet compatibility target |
 
-ADF-1 focuses on **token creation**, while ADF-20 focuses on **fungible asset representation, management, and interoperability**.
+**ADF-1 focuses on creating and issuing tokens, while ADF-20 focuses on connecting and managing fungible assets across EVM and Cosmos environments.**
 
-*Both standards are under development and subject to technical implementation, testing, and validation.*
+Together, ADF-1 and ADF-20 are intended to form complementary components of ADUBA's token and asset infrastructure.
+
+*Both standards are subject to technical implementation, integration testing, and security validation.*
 
 Key capabilities include:
 
