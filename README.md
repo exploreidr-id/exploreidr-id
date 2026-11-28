@@ -138,7 +138,7 @@ Key capabilities include:
 - **ADU:** Native token and gas fee token of ADUBA Chain.
 - **ADF-1:** Token creation, issuance, and management standard.
 - **ADF-20:** Unified fungible asset standard designed for EVM and Cosmos SDK integration and IBC interoperability.
-- 
+  
 **ADF-1 and ADF-20 are not standalone cryptocurrencies or native tokens.**
 ---
 
